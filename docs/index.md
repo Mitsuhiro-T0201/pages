@@ -1,4 +1,4 @@
-ほげ[ふが](github.com)ぴよ
+ほげ[ふが](https://github.com)ぴよ
 
 ![ほげ](./enjin.png)
 
