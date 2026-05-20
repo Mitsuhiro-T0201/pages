@@ -1,4 +1,4 @@
-ほげ[ふが](https://github.com/)ぴよ
+ほげ[ふが](./enjin.png)ぴよ
 
 # レベル0
 
